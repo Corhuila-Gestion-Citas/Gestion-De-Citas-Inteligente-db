@@ -1,0 +1,5 @@
+databaseChangeLog:
+  - include:
+      file: 01_ddl/03_tables/001-create-users-table.yaml
+  - include:
+      file: 01_ddl/03_tables/002-create-turnos-table.yaml
