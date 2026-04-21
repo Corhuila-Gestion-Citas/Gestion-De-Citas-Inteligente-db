@@ -1,0 +1,8 @@
+databaseChangeLog:
+  - changeSet:
+      id: 003-insert-datos-iniciales
+      author: yeison
+      changes:
+        - sqlFile:
+            path: 02_dml/00_inserts/001-insert-datos-iniciales.sql
+            relativeToChangelogFile: false
