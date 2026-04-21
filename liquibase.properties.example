@@ -1,0 +1,6 @@
+changeLogFile=changelog-master.yaml
+url=jdbc:postgresql://localhost:5432/citasdb
+username=postgres
+password=yeison
+driver=org.postgresql.Driver
+defaultSchemaName=public
