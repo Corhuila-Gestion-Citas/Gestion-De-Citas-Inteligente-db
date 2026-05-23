@@ -155,7 +155,7 @@ y configurar los datos de conexión correspondientes:
 ```properties
 url=jdbc:postgresql://localhost:5432/gestion_citas_db
 username=postgres
-password=postgres
+password=yeison
 changeLogFile=changelog-master.yaml
 ```
 
